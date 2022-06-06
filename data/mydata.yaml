@@ -1,0 +1,7 @@
+train: C:/Users/16686/Desktop/python/yolov5-master/data/mydata/images/train  # train images (relative to 'path') 128 images
+val: C:/Users/16686/Desktop/python/yolov5-master/data/mydata/images/val  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 4  # number of classes
+names: ['ct_body', 'ct_head', 't_body', 't_head']  # class names
