@@ -1,1 +1,1 @@
-# Target-Detection-for-CSGO-by-YOLOv5
+# Target Detection for CSGO by YOLOv5
